@@ -1,5 +1,10 @@
 # liri-node-app
-liri-node-app is a Language Interpretation and Recognition Interface which utilizes Node.js
+liri-node-app is a Language Interpretation and Recognition Interface which utilizes Node.js<br>
+### API's
+* Twitter
+* Spotify
+* Request
+* OMDB (The Open Movie Database)
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -7,4 +12,4 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 Be sure to have Node installed on your local machine <br>
 Once cloned on your local machine cd your way into the projects directory and run <br>
-'npm install'
+`npm install`
