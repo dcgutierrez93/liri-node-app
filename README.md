@@ -11,12 +11,12 @@ Once cloned on your local machine cd your way into the projects directory and ru
 
 ### What Are The Commands And What Each Will Do
 1. `node liri.js my-tweets`
-    * This will show your last 20 tweets and when they were created at in your terminal/bash window.
+    * This will show last 20 tweets and when they were created at in your terminal/bash window.
 
 2. `node liri.js spotify-this-song '<song name here>'`
     * This will display Artist(s), The Song Name, A Preview of the Link of the Song Spotify and the Album.
 
-3. node liri.js movie-this '<movie name here>'
+3. `node liri.js movie-this '<movie name here>'`
     * Title of the movie.
     * Year the movie came out.
     * IMDB Rating of the movie.
@@ -36,3 +36,6 @@ Once cloned on your local machine cd your way into the projects directory and ru
 * Spotify API
 * Request API
 * OMDB API (The Open Movie Database)
+
+### Author
+* David C. Gutierrez
